@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arcorin - Corina
 - 👀 I’m interested in web development, data science, cyber security
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me: corinacara.1@gmail.com
 
